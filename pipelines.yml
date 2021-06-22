@@ -15,7 +15,7 @@ resources:
       buildName: BUILD-A
       buildNumber: $run_number
 pipelines:
-  - name: <jfrog pipelines pipeline name>
+  - name: lidor
     configuration:
       environmentVariables:
         readOnly:
